@@ -18,4 +18,5 @@ A little bit shaky, not sure if you want this to take up some of your precious l
 Don't like it? Just run delete.command and watch as the directory gets wisked away from your system. :)
 
 # notes:
-don't run setup.command. That's for python 2. All it does is just run get-pip.py
+- don't run setup.command. That's for python 2. All it does is just run get-pip.py
+- that background you see is Geany, a super helpful editor that that supports almost every language including obselite ones like D and Latex.
