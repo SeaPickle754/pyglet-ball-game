@@ -3,7 +3,7 @@ A simple game made in pyglet (who hoo, no pesky pygame!) where you are a player 
 
 # running:
 
-just run Main.py. Can't get any easier than that!
+just run Main.py OR click execute.command. Can't get any easier than that!
 
 # orgin:
 This is product of a challenge I gave myself: make a game in pyglet in a week. 5 picture files max, they have to be PNG, must be playable.
