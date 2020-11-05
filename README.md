@@ -16,3 +16,6 @@ python-3.8
 # preveiw:
 A little bit shaky, not sure if you want this to take up some of your precious little memory on your 2012 laptop? I get it. pre.png is a screenshot of what the game is.
 Don't like it? Just run delete.command and watch as the directory gets wisked away from your system. :)
+
+# notes:
+don't run setup.command. That's for python 2. All it does is just run get-pip.py
