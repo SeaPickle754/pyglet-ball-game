@@ -19,4 +19,4 @@ Don't like it? Just run delete.command and watch as the directory gets wisked aw
 
 # notes:
 - don't run setup.command. That's for python 2. All it does is just run get-pip.py
-- that background you see is Geany, a super helpful editor that that supports almost every language including obselite ones like D and Latex.
+- made and tested on a Mac. No gurantees for OSes like Linux and Windows.
